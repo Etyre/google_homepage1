@@ -5,4 +5,6 @@ Second attempt: This is a the first Odin project project, making a clone of the 
 
 This is my edit from sublime on my laptop. - let's see if it shows up.
 
+It doesn't seem to be showing up.
+
 
